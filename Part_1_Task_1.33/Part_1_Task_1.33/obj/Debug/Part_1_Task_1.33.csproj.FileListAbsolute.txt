@@ -1,0 +1,8 @@
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\bin\Debug\Part_1_Task_1.33.exe.config
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\bin\Debug\Part_1_Task_1.33.exe
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\bin\Debug\Part_1_Task_1.33.pdb
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\obj\Debug\Part_1_Task_1.33.csproj.AssemblyReference.cache
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\obj\Debug\Part_1_Task_1.33.csproj.SuggestedBindingRedirects.cache
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\obj\Debug\Part_1_Task_1.33.csproj.CoreCompileInputs.cache
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\obj\Debug\Part_1_Task_1.33.exe
+D:\Emel\Part_1_Task_1.33\Part_1_Task_1.33\obj\Debug\Part_1_Task_1.33.pdb
